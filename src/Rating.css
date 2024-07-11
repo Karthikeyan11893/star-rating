@@ -1,0 +1,13 @@
+.star-input {
+    display: none;
+}
+
+.star {
+    cursor: pointer;
+}
+
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
